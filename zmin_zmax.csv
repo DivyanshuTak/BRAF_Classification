@@ -1,0 +1,2 @@
+bch mrn,label,top z index,bottom z index,image path,mask path
+0,0,93,59,/home/divyanshu/BRAF/BRAF_Classification/aidan_segmentation/nnUNet_pLGG/output_preprocess/nnunet/imagesTs/input_0000.nii.gz,/home/divyanshu/BRAF/BRAF_Classification/aidan_segmentation/nnUNet_pLGG/output_mask/input_t2w_mri.nii.gz
