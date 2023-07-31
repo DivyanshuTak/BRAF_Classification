@@ -15,7 +15,7 @@
 ---
 
 ## Installation
-The porject works on two anaconda environments for segmentation code and classification code respectively.
+The project works on two anaconda environments for segmentation code and classification code respectively.
 Use this command for installing the anaconda environment for the segmentation code
 ```shell
 cd BRAF_Classification/aidan_segmentation/nnUNet_pLGG/environment.yml
@@ -39,4 +39,4 @@ once the image is loaded in the directory the pipeline can be ran by the followi
 Classification output will be printed on the terminal screen along with the running logs. 
 
 
-# BRAF_Classification
+
